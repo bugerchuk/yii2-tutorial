@@ -29,7 +29,7 @@
 Для этого необходимо выполнить команды, из корневой директории учебника(yii2-tutorial):
 
 ```
-composer global require "fxp/composer-asset-plugin:1.0.0"
+composer global require "fxp/composer-asset-plugin:~1.1.1"
 composer create-project --prefer-dist yiisoft/yii2-app-advanced yii2-app-advanced
 ```
 
